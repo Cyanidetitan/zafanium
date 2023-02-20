@@ -21,7 +21,7 @@ Style: Default,FOT-RodinMaria Pro B,25,&H00FFFFFF,&H000000FF,&H0013131C,&H001919
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.00,0:00:15.00,Default,,0,0,0,,{\pos(966,96)}Encoded By AnimeMonk
+Dialogue: 0,0:00:05.00,0:00:15.00,Default,,0,0,0,,{\pos(966,96)}Encoded By AnimeMonk.
 
-Dialogue: 0,0:15:00.00,0:15:20.00,Default,,0,0,0,,{\pos(966,96)}Visit us on telegram at t.me/AnimeMonk
-lol
+Dialogue: 0,0:15:00.00,0:15:20.00,Default,,0,0,0,,{\pos(966,96)}Visit us on telegram at t.me/AnimeMonk.
+
