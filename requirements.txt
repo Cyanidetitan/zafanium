@@ -32,3 +32,9 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 httplib2==0.18.0
+
+#webapp
+Flask==2.2.2
+
+aiohttp==3.8.1
+gunicorn==20.1.0
